@@ -1,0 +1,13 @@
+.body{
+    margin: 15px;
+}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+h2{
+    text-align: center;margin:10px;
+}
+.centro{
+  padding: 50px;
+}
